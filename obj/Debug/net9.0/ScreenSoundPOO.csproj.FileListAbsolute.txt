@@ -12,3 +12,4 @@ C:\Users\Mosten\Desktop\Projects\ScreenSoundPOO\obj\Debug\net9.0\refint\ScreenSo
 C:\Users\Mosten\Desktop\Projects\ScreenSoundPOO\obj\Debug\net9.0\ScreenSoundPOO.pdb
 C:\Users\Mosten\Desktop\Projects\ScreenSoundPOO\obj\Debug\net9.0\ScreenSoundPOO.genruntimeconfig.cache
 C:\Users\Mosten\Desktop\Projects\ScreenSoundPOO\obj\Debug\net9.0\ref\ScreenSoundPOO.dll
+C:\Users\Mosten\Desktop\Projects\ScreenSoundPOO\obj\Debug\net9.0\ScreenSoundPOO.sourcelink.json
