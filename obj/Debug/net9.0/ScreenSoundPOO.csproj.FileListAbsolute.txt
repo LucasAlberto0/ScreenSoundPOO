@@ -1,0 +1,14 @@
+C:\Users\Mosten\Desktop\Projects\ScreenSoundPOO\bin\Debug\net9.0\ScreenSoundPOO.exe
+C:\Users\Mosten\Desktop\Projects\ScreenSoundPOO\bin\Debug\net9.0\ScreenSoundPOO.deps.json
+C:\Users\Mosten\Desktop\Projects\ScreenSoundPOO\bin\Debug\net9.0\ScreenSoundPOO.runtimeconfig.json
+C:\Users\Mosten\Desktop\Projects\ScreenSoundPOO\bin\Debug\net9.0\ScreenSoundPOO.dll
+C:\Users\Mosten\Desktop\Projects\ScreenSoundPOO\bin\Debug\net9.0\ScreenSoundPOO.pdb
+C:\Users\Mosten\Desktop\Projects\ScreenSoundPOO\obj\Debug\net9.0\ScreenSoundPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mosten\Desktop\Projects\ScreenSoundPOO\obj\Debug\net9.0\ScreenSoundPOO.AssemblyInfoInputs.cache
+C:\Users\Mosten\Desktop\Projects\ScreenSoundPOO\obj\Debug\net9.0\ScreenSoundPOO.AssemblyInfo.cs
+C:\Users\Mosten\Desktop\Projects\ScreenSoundPOO\obj\Debug\net9.0\ScreenSoundPOO.csproj.CoreCompileInputs.cache
+C:\Users\Mosten\Desktop\Projects\ScreenSoundPOO\obj\Debug\net9.0\ScreenSoundPOO.dll
+C:\Users\Mosten\Desktop\Projects\ScreenSoundPOO\obj\Debug\net9.0\refint\ScreenSoundPOO.dll
+C:\Users\Mosten\Desktop\Projects\ScreenSoundPOO\obj\Debug\net9.0\ScreenSoundPOO.pdb
+C:\Users\Mosten\Desktop\Projects\ScreenSoundPOO\obj\Debug\net9.0\ScreenSoundPOO.genruntimeconfig.cache
+C:\Users\Mosten\Desktop\Projects\ScreenSoundPOO\obj\Debug\net9.0\ref\ScreenSoundPOO.dll
